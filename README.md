@@ -23,3 +23,4 @@ Create a website for users to: (technically I could just use SQL workbench but m
 Lofty goals:
 -add user permissions
 -create a barcode-scan feature 
+-retrieve patient demographics from Kinnser
